@@ -24,8 +24,8 @@
 
 # 🎓 DỰ ÁN: DỰ BÁO XU HƯỚNG NGHỀ NGHIỆP HOT
 
-**Môn học**: Chuyển đổi số  </br>
-**Nhóm**: 18 </br>
+**Môn học**: Chuyển đổi số  <br>
+**Nhóm**: 18 <br>
 **Sinh viên**: [Phạm Đình Nghĩa -1671020222 / Nguyễn Tiến Thái - 1671020288] </br>
 
 
