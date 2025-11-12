@@ -356,18 +356,6 @@ du_bao/
 
 ---
 
-## 📞 CONTACT & SUPPORT
-
-**Sinh viên**: [Tên của bạn]  
-**Email**: [Email của bạn]  
-**GitHub**: [GitHub link]
-
-**Giảng viên hướng dẫn**: [Tên GV]  
-**Môn học**: Chuyển đổi số  
-**Học kỳ**: [HK/Năm]
-
----
-
 ## 📜 LICENSE
 
 This project is created for educational purposes (Bài tập lớn môn Chuyển đổi số).
