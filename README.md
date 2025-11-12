@@ -25,8 +25,7 @@
 **Môn học**: Chuyển đổi số  
 **Nhóm 18**
 **Sinh viên**: 
-[Phạm Đình Nghĩa -1671020222]  
-[Nguyễn Tiến Thái - 1671020288]
+[Phạm Đình Nghĩa -1671020222 / Nguyễn Tiến Thái - 1671020288]
 **Thời gian**: 12-15 ngày
 
 ---
