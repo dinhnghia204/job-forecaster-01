@@ -1,36 +1,3 @@
-skill_abr,skill_name
-ART,Art/Creative
-DSGN,Design
-ADVR,Advertising
-PRDM,Product Management
-DIST,Distribution
-EDU,Education
-TRNG,Training
-PRJM,Project Management
-CNSL,Consulting
-PRCH,Purchasing
-SUPL,Supply Chain
-ANLS,Analyst
-HCPR,Health Care Provider
-RSCH,Research
-SCI,Science
-GENB,General Business
-CUST,Customer Service
-STRA,Strategy/Planning
-FIN,Finance
-OTHR,Other
-LGL,Legal
-ENG,Engineering
-QA,Quality Assurance
-BD,Business Development
-IT,Information Technology
-ADM,Administrative
-PROD,Production
-MRKT,Marketing
-PR,Public Relations
-WRT,Writing/Editing
-ACCT,Accounting/Auditing
-HR,Human Resources
-MNFC,Manufacturing
-SALE,Sales
-MGMT,Management
+version https://git-lfs.github.com/spec/v1
+oid sha256:1732c4cb6a8b43696d708caf74fc85bdd45e8527b64163c9a4e7c257c631e1d5
+size 679
