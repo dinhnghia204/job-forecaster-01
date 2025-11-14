@@ -20,14 +20,14 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 </div>
 
+---
+
 # 🎓 DỰ ÁN: DỰ BÁO XU HƯỚNG NGHỀ NGHIỆP HOT
 
-**Môn học**: Chuyển đổi số  
-**Nhóm 18**
-**Sinh viên**: 
-[Phạm Đình Nghĩa -1671020222]  
-[Nguyễn Tiến Thái - 1671020288]
-**Thời gian**: 12-15 ngày
+**Môn học**: Chuyển đổi số  <br>
+**Nhóm**: 18 <br>
+**Sinh viên**: [Phạm Đình Nghĩa -1671020222 / Nguyễn Tiến Thái - 1671020288] </br>
+
 
 ---
 
@@ -353,18 +353,6 @@ du_bao/
    - Browse results
    - View job details
 
-
----
-
-## 📞 CONTACT & SUPPORT
-
-**Sinh viên**: [Tên của bạn]  
-**Email**: [Email của bạn]  
-**GitHub**: [GitHub link]
-
-**Giảng viên hướng dẫn**: [Tên GV]  
-**Môn học**: Chuyển đổi số  
-**Học kỳ**: [HK/Năm]
 
 ---
 
